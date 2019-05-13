@@ -1,2 +1,1 @@
-# SequencerApplication
-SequencerApplication
+# Sequencer
