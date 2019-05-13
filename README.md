@@ -1,3 +1,3 @@
 # Sequencer
 
-![Alt text](Application.png?raw=true "Sequencer screencapture")
+![image](Application.png?raw=true "Sequencer screencapture")
