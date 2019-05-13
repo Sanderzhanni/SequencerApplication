@@ -1,3 +1,3 @@
 # Sequencer
 
-![image](Application.png?raw=true "Sequencer screencapture")
+![image](Application.PNG?raw=true "Sequencer screencapture")
